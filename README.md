@@ -31,12 +31,12 @@ A Chrome extension for screenshot review: capture a full page, annotate areas, k
 
 **Product angle:** makes visual QA and product/design feedback easier to hand off to humans or AI without losing context.
 
-### Hermes Product Teams
+### [`hermes-product-teams`](https://github.com/DCCA/hermes-product-teams)
 A Hermes-based product memory agent that turns messy discovery inputs into maintained product artifacts: discovery notes, customer insights, decision logs, PRD update proposals, and weekly product briefs.
 
 **Product angle:** product teams do not need another generic AI PM chatbot; they need a trustworthy memory layer that keeps discovery, decisions, and docs current.
 
-### AI Signal Desk
+### [`ai-signal-desk`](https://github.com/DCCA/ai-signal-desk)
 A practical AI signal brief concept that classifies AI concepts, products, repos, and workflows by what to learn, try, watch, or ignore.
 
 **Product angle:** editorial AI curation for people who want useful next steps instead of another feed of AI hype.
