@@ -1,66 +1,49 @@
 # Daniel Andrade
 
-**Senior product leader and AI-first builder focused on fintech, agents, product memory, signal curation, and human-in-the-loop workflows.**
+**Senior fintech product leader building practical AI operating systems.**
 
-I’m a Group Product Manager / Sr Manager at Neon in São Paulo, with previous fintech/product leadership experience at Mercado Libre, Leve, PagSeguro PagBank, and ConectCar.
+I lead product teams in fintech and build hands-on AI systems for signal curation, product memory, human-in-the-loop review, and agent workflow guardrails.
 
-Alongside product leadership, I build practical AI operating systems: tools that ingest messy inputs, classify signal, preserve context, keep humans in approval loops, and turn AI output into useful product artifacts.
+My bias: AI becomes useful when it is connected to a real workflow, grounded in evidence, and constrained by clear human approval boundaries.
 
-## What I’m exploring
+## What I build
 
-- **AI agents for product teams** — discovery capture, living docs, decision logs, PRD proposals, and weekly product briefs.
-- **Signal curation systems** — turning noisy AI sources into practical briefs and next actions.
-- **Local-first AI workflows** — personal/team systems that stay inspectable, portable, and permission-aware.
-- **Human-in-the-loop review loops** — lightweight tools for visual QA, agent alignment, and product feedback.
-- **Agent guardrails and evals** — repeatable checks that keep AI-assisted work grounded, reviewable, and reversible.
+| System | What it proves | Repo |
+|---|---|---|
+| **AI signal desk** | Turning noisy AI news/repos/concepts into practical decisions: learn, try, watch, or ignore. | [`ai-signal-desk`](https://github.com/DCCA/ai-signal-desk) |
+| **Personal AI digest** | Local-first source curation, scoring, scheduling, and delivery into Telegram + Obsidian. | [`vyno`](https://github.com/DCCA/vyno) |
+| **Product team memory** | Capturing messy discovery inputs into notes, insights, decision logs, PRD proposals, and weekly briefs. | [`hermes-product-teams`](https://github.com/DCCA/hermes-product-teams) |
+| **Agent workflow guardrails** | Keeping AI coding agents aligned with product intent through specs, tasks, verification, and completion artifacts. | [`firehose`](https://github.com/DCCA/firehose) |
+| **Visual review loop** | Screenshot capture, annotation, timeline feedback, and LLM-ready review context for product/design QA. | [`shotback`](https://github.com/DCCA/shotback) |
 
-## Selected projects
+## Current build thesis
 
-### [`vyno`](https://github.com/DCCA/vyno)
-Local-first AI Daily Digest for Telegram + Obsidian with source curation, scoring, scheduling, and a React operator console.
+Most AI products fail in the gap between *impressive output* and *trusted operation*.
 
-**Product angle:** helps people keep up with AI without drowning in hype by ranking, summarizing, archiving, and delivering high-signal items into the places they already use.
+I’m exploring the layer in between:
 
-### [`firehose`](https://github.com/DCCA/firehose)
-A spec-driven workflow for keeping AI coding agents aligned with product intent.
+- **Product memory** — systems that preserve discovery, decisions, and source context.
+- **Signal curation** — tools that reduce information overload into useful next actions.
+- **Human approval loops** — workflows where AI drafts, ranks, and proposes, but people decide.
+- **Agent operating manuals** — specs, guardrails, tests, and artifacts that make AI-assisted work reviewable.
+- **Local-first automation** — useful systems that remain inspectable, portable, and permission-aware.
 
-**Product angle:** reduces drift between plan and code by making scope, design, tasks, verification, and completion artifacts first-class parts of the development loop.
+## Background
 
-### [`shotback`](https://github.com/DCCA/shotback)
-A Chrome extension for screenshot review: capture a full page, annotate areas, keep a feedback timeline, and prepare structured prompts for LLM-assisted review.
+I’m a Group Product Manager / Sr. Manager at Neon in São Paulo, with previous fintech and product leadership experience at Mercado Libre, Leve, PagSeguro PagBank, and ConectCar.
 
-**Product angle:** makes visual QA and product/design feedback easier to hand off to humans or AI without losing context.
-
-### [`hermes-product-teams`](https://github.com/DCCA/hermes-product-teams)
-A Hermes-based product memory agent that turns messy discovery inputs into maintained product artifacts: discovery notes, customer insights, decision logs, PRD update proposals, and weekly product briefs.
-
-**Product angle:** product teams do not need another generic AI PM chatbot; they need a trustworthy memory layer that keeps discovery, decisions, and docs current.
-
-### [`ai-signal-desk`](https://github.com/DCCA/ai-signal-desk)
-A practical AI signal brief concept that classifies AI concepts, products, repos, and workflows by what to learn, try, watch, or ignore.
-
-**Product angle:** editorial AI curation for people who want useful next steps instead of another feed of AI hype.
+I use GitHub as a public workshop for practical AI/product systems: small enough to inspect, real enough to validate, and opinionated enough to show how I think.
 
 ## How I work
 
-- Start with the user/workflow, not the model.
-- Preserve evidence and source context.
-- Keep humans in approval loops for consequential actions.
-- Prefer local-first and inspectable systems where possible.
-- Validate with deterministic checks, fixtures, and small evals.
-- Turn repeated workflows into reusable agents, tools, and operating systems.
-
-## Current focus
-
-Building and testing AI-native product workflows around:
-
-1. personal AI signal intake,
-2. product team memory,
-3. agent-assisted product documentation,
-4. practical guardrails for AI coding/product loops.
+- Start with the user workflow, not the model.
+- Keep evidence attached to generated claims.
+- Prefer reversible, inspectable systems over opaque automation.
+- Use deterministic checks and fixtures where possible.
+- Treat agents as collaborators that need context, constraints, and review.
 
 ---
 
-If this overlaps with what you’re building, I’m happy to compare notes.
+If you’re building at the intersection of product leadership, fintech, and practical AI systems, I’m happy to compare notes.
 
 [LinkedIn](https://www.linkedin.com/in/daniel-c-campagnoni-andrade-1004b13b) · [GitHub](https://github.com/DCCA)
