@@ -1,8 +1,10 @@
 # Daniel Andrade
 
-**AI-first product builder focused on agents, product memory, signal curation, and human-in-the-loop workflows.**
+**Senior product leader and AI-first builder focused on fintech, agents, product memory, signal curation, and human-in-the-loop workflows.**
 
-I build practical AI operating systems: tools that ingest messy inputs, classify signal, preserve context, keep humans in approval loops, and turn AI output into useful product artifacts.
+I’m a Group Product Manager / Sr Manager at Neon in São Paulo, with previous fintech/product leadership experience at Mercado Libre, Leve, PagSeguro PagBank, and ConectCar.
+
+Alongside product leadership, I build practical AI operating systems: tools that ingest messy inputs, classify signal, preserve context, keep humans in approval loops, and turn AI output into useful product artifacts.
 
 ## What I’m exploring
 
@@ -60,3 +62,5 @@ Building and testing AI-native product workflows around:
 ---
 
 If this overlaps with what you’re building, I’m happy to compare notes.
+
+[LinkedIn](https://www.linkedin.com/in/daniel-c-campagnoni-andrade-1004b13b) · [GitHub](https://github.com/DCCA)
