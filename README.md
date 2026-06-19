@@ -28,6 +28,10 @@ I’m exploring the layer in between:
 - 📐 **Agent operating manuals** — specs, guardrails, tests, and artifacts that make AI-assisted work reviewable.
 - 🏡 **Local-first automation** — useful systems that remain inspectable, portable, and permission-aware.
 
+## 🧪 Current experiments
+
+- [`skval`](https://github.com/DCCA/skval) — scores Claude Code skills with deterministic checks, safety gates, eval fixtures, and ship/revise/reject scorecards.
+
 ## 👋 Background
 
 I’m a Group Product Manager / Sr. Manager at Neon in São Paulo, with previous fintech and product leadership experience at Mercado Libre, Leve, PagSeguro PagBank, and ConectCar.
