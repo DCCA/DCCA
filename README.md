@@ -13,6 +13,7 @@ My bias: AI becomes useful when it is connected to a real workflow, grounded in 
 | 🧭 **AI signal desk** | Turning noisy AI news/repos/concepts into practical decisions: learn, try, watch, or ignore. | [`ai-signal-desk`](https://github.com/DCCA/ai-signal-desk) |
 | 📬 **Personal AI digest** | Local-first source curation, scoring, scheduling, and delivery into Telegram + Obsidian. | [`vyno`](https://github.com/DCCA/vyno) |
 | 🧠 **Product team memory** | Capturing messy discovery inputs into notes, insights, decision logs, PRD proposals, and weekly briefs. | [`hermes-product-teams`](https://github.com/DCCA/hermes-product-teams) |
+| ✅ **Skill validation** | Scoring Claude Code skills with deterministic checks, safety gates, eval fixtures, and ship/revise/reject scorecards. | [`skval`](https://github.com/DCCA/skval) |
 | 🧩 **Agent workflow guardrails** | Keeping AI coding agents aligned with product intent through specs, tasks, verification, and completion artifacts. | [`firehose`](https://github.com/DCCA/firehose) |
 | 🖼️ **Visual review loop** | Screenshot capture, annotation, timeline feedback, and LLM-ready review context for product/design QA. | [`shotback`](https://github.com/DCCA/shotback) |
 
@@ -30,7 +31,7 @@ I’m exploring the layer in between:
 
 ## 🧪 Current experiments
 
-- [`skval`](https://github.com/DCCA/skval) — scores Claude Code skills with deterministic checks, safety gates, eval fixtures, and ship/revise/reject scorecards.
+- [`skval`](https://github.com/DCCA/skval) — now has an installable `skval` CLI for structural validation, full scorecards, benchmark export, batch ranking, and scorecard comparisons.
 
 ## 👋 Background
 
