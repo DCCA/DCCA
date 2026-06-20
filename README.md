@@ -6,40 +6,42 @@ I lead product teams in fintech and build hands-on AI systems for signal curatio
 
 My bias: AI becomes useful when it is connected to a real workflow, grounded in evidence, and constrained by clear human approval boundaries.
 
-## 🛠️ What I build
+## What I build
 
 | System | What it proves | Repo |
 |---|---|---|
-| 🧭 **AI signal desk** | Turning noisy AI news/repos/concepts into practical decisions: learn, try, watch, or ignore. | [`ai-signal-desk`](https://github.com/DCCA/ai-signal-desk) |
-| 📬 **Personal AI digest** | Local-first source curation, scoring, scheduling, and delivery into Telegram + Obsidian. | [`vyno`](https://github.com/DCCA/vyno) |
-| 🧠 **Product team memory** | Capturing messy discovery inputs into notes, insights, decision logs, PRD proposals, and weekly briefs. | [`hermes-product-teams`](https://github.com/DCCA/hermes-product-teams) |
-| ✅ **Skill validation** | Scoring Claude Code skills with deterministic checks, safety gates, eval fixtures, and ship/revise/reject scorecards. | [`skval`](https://github.com/DCCA/skval) |
-| 🧩 **Agent workflow guardrails** | Keeping AI coding agents aligned with product intent through specs, tasks, verification, and completion artifacts. | [`firehose`](https://github.com/DCCA/firehose) |
-| 🖼️ **Visual review loop** | Screenshot capture, annotation, timeline feedback, and LLM-ready review context for product/design QA. | [`shotback`](https://github.com/DCCA/shotback) |
+| **AI signal desk** | Turning noisy AI news, repos, and concepts into practical decisions: learn, try, watch, or ignore. | [`ai-signal-desk`](https://github.com/DCCA/ai-signal-desk) |
+| **Personal AI digest** | Local-first source curation, scoring, scheduling, and delivery into Telegram + Obsidian. | [`vyno`](https://github.com/DCCA/vyno) |
+| **Product team memory** | Capturing messy discovery inputs into notes, insights, decision logs, PRD proposals, and weekly briefs. | [`hermes-product-teams`](https://github.com/DCCA/hermes-product-teams) |
+| **Skill validation** | Scoring Claude Code skills with deterministic checks, safety gates, eval fixtures, and ship/revise/reject scorecards. | [`skval`](https://github.com/DCCA/skval) |
+| **Agent workflow guardrails** | Keeping AI coding agents aligned with product intent through specs, tasks, verification, and completion artifacts. | [`firehose`](https://github.com/DCCA/firehose) |
+| **Visual review loop** | Screenshot capture, annotation, timeline feedback, and LLM-ready review context for product/design QA. | [`shotback`](https://github.com/DCCA/shotback) |
 
-## 🔭 Current build thesis
+## Current build thesis
 
 Most AI products fail in the gap between *impressive output* and *trusted operation*.
 
 I’m exploring the layer in between:
 
-- 🧠 **Product memory** — systems that preserve discovery, decisions, and source context.
-- 🧭 **Signal curation** — tools that reduce information overload into useful next actions.
-- ✅ **Human approval loops** — workflows where AI drafts, ranks, and proposes, but people decide.
-- 📐 **Agent operating manuals** — specs, guardrails, tests, and artifacts that make AI-assisted work reviewable.
-- 🏡 **Local-first automation** — useful systems that remain inspectable, portable, and permission-aware.
+- **Product memory**: systems that preserve discovery, decisions, and source context.
+- **Signal curation**: tools that reduce information overload into useful next actions.
+- **Human approval loops**: workflows where AI drafts, ranks, and proposes, but people decide.
+- **Agent operating manuals**: specs, guardrails, tests, and artifacts that make AI-assisted work reviewable.
+- **Local-first automation**: useful systems that remain inspectable, portable, and permission-aware.
 
-## 🧪 Current experiments
+## Current experiments
 
-- [`skval`](https://github.com/DCCA/skval) — now has an installable `skval` CLI for structural validation, full scorecards, benchmark export, batch ranking, and scorecard comparisons.
+- [`vyno`](https://github.com/DCCA/vyno): a local-first AI daily digest pipeline with Telegram delivery, Obsidian archiving, scoring, and an operator console.
+- [`shotback`](https://github.com/DCCA/shotback): a Chrome extension workflow for screenshot capture, annotation, visual QA, and LLM-ready review context.
+- [`skval`](https://github.com/DCCA/skval): an installable CLI for skill validation, scorecards, benchmark export, batch ranking, and scorecard comparison.
 
-## 👋 Background
+## Background
 
 I’m a Group Product Manager / Sr. Manager at Neon in São Paulo, with previous fintech and product leadership experience at Mercado Libre, Leve, PagSeguro PagBank, and ConectCar.
 
 I use GitHub as a public workshop for practical AI/product systems: small enough to inspect, real enough to validate, and opinionated enough to show how I think.
 
-## ⚙️ How I work
+## How I work
 
 - Start with the user workflow, not the model.
 - Keep evidence attached to generated claims.
