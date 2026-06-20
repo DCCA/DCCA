@@ -23,11 +23,11 @@ Most AI products fail in the gap between *impressive output* and *trusted operat
 
 I’m exploring the layer in between:
 
-- **Product memory**: systems that preserve discovery, decisions, and source context.
-- **Signal curation**: tools that reduce information overload into useful next actions.
-- **Human approval loops**: workflows where AI drafts, ranks, and proposes, but people decide.
-- **Agent operating manuals**: specs, guardrails, tests, and artifacts that make AI-assisted work reviewable.
-- **Local-first automation**: useful systems that remain inspectable, portable, and permission-aware.
+- Product memory: systems that preserve discovery, decisions, and source context.
+- Signal curation: tools that reduce information overload into useful next actions.
+- Human approval loops: workflows where AI drafts, ranks, and proposes, but people decide.
+- Agent operating manuals: specs, guardrails, tests, and artifacts that make AI-assisted work reviewable.
+- Local-first automation: useful systems that remain inspectable, portable, and permission-aware.
 
 ## Current experiments
 
