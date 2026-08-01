@@ -10,7 +10,7 @@ My bias: AI becomes useful when it is connected to a real workflow, grounded in 
 
 | System | What it proves | Status |
 |---|---|---|
-| [`AI Signal Desk`](https://github.com/DCCA/ai-signal-desk) | A live AI signal product that turns noisy AI news, tools, repos, and concepts into practical calls: learn, try, watch, or ignore. | Live at [aisignaldesk.ai](https://aisignaldesk.ai) |
+| [AI Signal Desk](https://aisignaldesk.ai) | A live AI signal product that turns noisy AI news, tools, repos, and concepts into practical calls: learn, try, watch, or ignore. | Live product · [website](https://aisignaldesk.ai) |
 | [`skval`](https://github.com/DCCA/skval) | Deterministic + LLM-assisted evaluation for Claude Code skills, with safety gates and ship/revise/reject scorecards. | CLI + docs site |
 | [`vyno`](https://github.com/DCCA/vyno) | Local-first AI digest pipeline with source curation, scoring, Telegram delivery, Obsidian archiving, and an operator console. | Personal automation |
 | [`shotback`](https://github.com/DCCA/shotback) | Human-in-the-loop visual QA workflow for screenshot capture, annotation, and LLM-ready product feedback. | Chrome workflow |
