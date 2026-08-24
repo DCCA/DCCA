@@ -2,13 +2,13 @@
 
 **Group Product Manager at Neon · Building AI systems that turn noisy inputs into reviewable decisions.**
 
-I lead product teams in fintech and build hands-on AI/product systems for signal curation, evaluation, local-first automation, and human-in-the-loop review.
+I lead product teams in fintech and build my own AI tooling on the side, mostly for signal curation, evaluation, and human-in-the-loop review.
 
-My bias: AI becomes useful when it is connected to a real workflow, grounded in source evidence, and constrained by clear human approval boundaries.
+My bias: AI is only useful once it sits inside a real workflow and cites its sources. A person signs off before anything irreversible happens.
 
 ## Selected systems
 
-| System | What it proves | Status |
+| System | What it does | Status |
 |---|---|---|
 | [AI Signal Desk](https://aisignaldesk.ai/?utm_source=github&utm_medium=profile&utm_campaign=readme) | A live AI signal product that turns noisy AI news, tools, repos, and concepts into practical calls: learn, try, watch, or ignore. | Live product · [website](https://aisignaldesk.ai/?utm_source=github&utm_medium=profile&utm_campaign=readme) |
 | [`skval`](https://github.com/DCCA/skval) | Deterministic + LLM-assisted evaluation for Claude Code skills, with safety gates and ship/revise/reject scorecards. | CLI + docs site |
@@ -18,38 +18,38 @@ My bias: AI becomes useful when it is connected to a real workflow, grounded in 
 
 ## What I am exploring
 
-Most AI products fail in the gap between **impressive output** and **trusted operation**. I’m interested in the operating layer in between:
+Most AI products demo well and then nobody trusts them in production. I work on the layer in between:
 
-- **Signal curation** — reducing information overload into useful next actions.
-- **Evaluation and quality gates** — making AI-assisted work testable instead of vibe-checked.
-- **Human approval loops** — AI drafts, ranks, and proposes; people decide.
-- **Local-first automation** — useful systems that remain inspectable, portable, and permission-aware.
-- **Product review artifacts** — preserving source context, visual evidence, decisions, and tradeoffs.
+- **Signal curation** - cutting a firehose down to one next action.
+- **Evaluation and quality gates** - making AI-assisted work testable instead of vibe-checked.
+- **Human approval loops** - AI drafts and ranks; a person decides.
+- **Local-first automation** - systems that run on your own machine and can be read end to end.
+- **Product review artifacts** - keeping the source, the screenshot, and the decision in one place so a review can be re-read later.
 
 ## Earlier / exploratory systems
 
 These are useful context, but not the center of my current portfolio:
 
-- [`firehose`](https://github.com/DCCA/firehose) — an earlier spec-driven workflow method for aligning AI coding agents with product intent.
-- [`hermes-product-teams`](https://github.com/DCCA/hermes-product-teams) — a product-memory prototype exploring discovery notes, decision logs, PRD proposals, and weekly product briefs.
-- [`sandy`](https://github.com/DCCA/sandy) — a schema-first mobile UI prototyping sandbox for design-system and server-driven UI experiments.
+- [`firehose`](https://github.com/DCCA/firehose) - an earlier spec-driven method for keeping AI coding agents on the product's intent.
+- [`hermes-product-teams`](https://github.com/DCCA/hermes-product-teams) - a product-memory prototype: discovery notes, decision logs, PRD proposals, weekly briefs.
+- [`sandy`](https://github.com/DCCA/sandy) - a schema-first sandbox for prototyping mobile UI from JSON, used for design-system and server-driven UI experiments.
 
 ## Background
 
-I’m a Group Product Manager / Sr. Manager at Neon in São Paulo, with previous fintech product roles at Mercado Libre, Leve, and PagSeguro PagBank, and earlier PM work at ConectCar and PSafe. Before product I spent years in product intelligence and BI, which is why everything I build insists on evidence, metrics, and deterministic checks.
+I’m a Group Product Manager / Sr. Manager at Neon in São Paulo, with previous fintech product roles at Mercado Libre, Leve, and PagSeguro PagBank, and earlier PM work at ConectCar and PSafe. Before product I spent years in product intelligence and BI, which is why everything I build starts from the numbers.
 
-I use GitHub as a public workshop for practical AI/product systems: small enough to inspect, real enough to validate, and opinionated enough to show how I think.
+GitHub is my public workshop. The projects here are small enough to read in one sitting and real enough to break.
 
 ## Operating principles
 
 - Start with the user workflow, not the model.
 - Keep evidence attached to generated claims.
-- Prefer reversible, inspectable systems over opaque automation.
+- Prefer systems you can undo and read over automation you can't.
 - Use deterministic checks and fixtures where possible.
-- Treat agents as collaborators that need context, constraints, and review.
+- Agents are collaborators: brief them, bound them, and review their work.
 
 ---
 
-If you’re building at the intersection of product leadership, fintech, and practical AI systems, I’m happy to compare notes.
+If you're a PM shipping AI systems, or a fintech person curious about them, I'm happy to compare notes.
 
 [LinkedIn](https://www.linkedin.com/in/daniel-c-campagnoni-andrade-1004b13b)
