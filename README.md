@@ -1,6 +1,6 @@
 # Daniel Andrade
 
-**Senior fintech product leader building AI systems that turn noisy inputs into reviewable decisions.**
+**Group Product Manager at Neon · Building AI systems that turn noisy inputs into reviewable decisions.**
 
 I lead product teams in fintech and build hands-on AI/product systems for signal curation, evaluation, local-first automation, and human-in-the-loop review.
 
@@ -10,7 +10,7 @@ My bias: AI becomes useful when it is connected to a real workflow, grounded in 
 
 | System | What it proves | Status |
 |---|---|---|
-| [AI Signal Desk](https://aisignaldesk.ai) | A live AI signal product that turns noisy AI news, tools, repos, and concepts into practical calls: learn, try, watch, or ignore. | Live product · [website](https://aisignaldesk.ai) |
+| [AI Signal Desk](https://aisignaldesk.ai/?utm_source=github&utm_medium=profile&utm_campaign=readme) | A live AI signal product that turns noisy AI news, tools, repos, and concepts into practical calls: learn, try, watch, or ignore. | Live product · [website](https://aisignaldesk.ai/?utm_source=github&utm_medium=profile&utm_campaign=readme) |
 | [`skval`](https://github.com/DCCA/skval) | Deterministic + LLM-assisted evaluation for Claude Code skills, with safety gates and ship/revise/reject scorecards. | CLI + docs site |
 | [`vyno`](https://github.com/DCCA/vyno) | Local-first AI digest pipeline with source curation, scoring, Telegram delivery, Obsidian archiving, and an operator console. | Personal automation |
 | [`shotback`](https://github.com/DCCA/shotback) | Human-in-the-loop visual QA workflow for screenshot capture, annotation, and LLM-ready product feedback. | Chrome workflow |
@@ -36,7 +36,7 @@ These are useful context, but not the center of my current portfolio:
 
 ## Background
 
-I’m a Group Product Manager / Sr. Manager at Neon in São Paulo, with previous fintech and product leadership experience at Mercado Libre, Leve, PagSeguro PagBank, and ConectCar.
+I’m a Group Product Manager / Sr. Manager at Neon in São Paulo, with previous fintech product roles at Mercado Libre, Leve, and PagSeguro PagBank, and earlier PM work at ConectCar and PSafe. Before product I spent years in product intelligence and BI, which is why everything I build insists on evidence, metrics, and deterministic checks.
 
 I use GitHub as a public workshop for practical AI/product systems: small enough to inspect, real enough to validate, and opinionated enough to show how I think.
 
@@ -52,4 +52,4 @@ I use GitHub as a public workshop for practical AI/product systems: small enough
 
 If you’re building at the intersection of product leadership, fintech, and practical AI systems, I’m happy to compare notes.
 
-[LinkedIn](https://www.linkedin.com/in/daniel-c-campagnoni-andrade-1004b13b) · [GitHub](https://github.com/DCCA)
+[LinkedIn](https://www.linkedin.com/in/daniel-c-campagnoni-andrade-1004b13b)
