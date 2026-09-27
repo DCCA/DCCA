@@ -1,55 +1,65 @@
 # Daniel Andrade
 
-**Group Product Manager at Neon · Building AI systems that turn noisy inputs into reviewable decisions.**
+**Group Product Manager at Neon. I lead fintech product teams and build practical AI products and tools.**
 
-I lead product teams in fintech and build hands-on AI/product systems for signal curation, evaluation, local-first automation, and human-in-the-loop review.
+I build for people shipping AI products. AI Signal Desk is live, and the projects below cover evaluation, human review, and automation teams can inspect and control.
 
-My bias: AI becomes useful when it is connected to a real workflow, grounded in source evidence, and constrained by clear human approval boundaries.
+## AI Signal Desk
+
+AI Signal Desk selects AI news, tools, repositories, and concepts. Each item includes sources, an editorial note, and a recommendation: learn, try, watch, or ignore.
+
+[Visit AI Signal Desk](https://aisignaldesk.ai/?utm_source=github&utm_medium=profile&utm_campaign=readme)
+
+<img src="assets/ai-signal-desk.png" alt="AI Signal Desk homepage showing curated AI stories, source-checked selection, and editorial notes" width="1200" height="700">
 
 ## Selected systems
 
-| System | What it proves | Status |
-|---|---|---|
-| [AI Signal Desk](https://aisignaldesk.ai/?utm_source=github&utm_medium=profile&utm_campaign=readme) | A live AI signal product that turns noisy AI news, tools, repos, and concepts into practical calls: learn, try, watch, or ignore. | Live product · [website](https://aisignaldesk.ai/?utm_source=github&utm_medium=profile&utm_campaign=readme) |
-| [`skval`](https://github.com/DCCA/skval) | Deterministic + LLM-assisted evaluation for Claude Code skills, with safety gates and ship/revise/reject scorecards. | CLI + docs site |
-| [`vyno`](https://github.com/DCCA/vyno) | Local-first AI digest pipeline with source curation, scoring, Telegram delivery, Obsidian archiving, and an operator console. | Personal automation |
-| [`shotback`](https://github.com/DCCA/shotback) | Human-in-the-loop visual QA workflow for screenshot capture, annotation, and LLM-ready product feedback. | Chrome workflow |
-| [`loopy`](https://github.com/DCCA/loopy) | Reusable agentic maintenance loops with deterministic detection, guardrails, and reviewable outputs. | Agent ops toolkit |
+### [`skval`](https://github.com/DCCA/skval)
 
-## What I am exploring
+Deterministic and LLM-assisted evaluation for Claude Code skills, with safety gates and ship, revise, or reject scorecards.
 
-Most AI products fail in the gap between **impressive output** and **trusted operation**. I’m interested in the operating layer in between:
+### [`vyno`](https://github.com/DCCA/vyno)
 
-- **Signal curation** — reducing information overload into useful next actions.
-- **Evaluation and quality gates** — making AI-assisted work testable instead of vibe-checked.
-- **Human approval loops** — AI drafts, ranks, and proposes; people decide.
-- **Local-first automation** — useful systems that remain inspectable, portable, and permission-aware.
-- **Product review artifacts** — preserving source context, visual evidence, decisions, and tradeoffs.
+A local-first AI digest pipeline with source curation, scoring, Telegram delivery, Obsidian archiving, and an operator console.
 
-## Earlier / exploratory systems
+### [`shotback`](https://github.com/DCCA/shotback)
 
-These are useful context, but not the center of my current portfolio:
+A human-in-the-loop visual QA workflow for screenshot capture, annotation, and LLM-ready product feedback.
 
-- [`firehose`](https://github.com/DCCA/firehose) — an earlier spec-driven workflow method for aligning AI coding agents with product intent.
-- [`hermes-product-teams`](https://github.com/DCCA/hermes-product-teams) — a product-memory prototype exploring discovery notes, decision logs, PRD proposals, and weekly product briefs.
-- [`sandy`](https://github.com/DCCA/sandy) — a schema-first mobile UI prototyping sandbox for design-system and server-driven UI experiments.
+### [`loopy`](https://github.com/DCCA/loopy)
+
+Reusable agentic maintenance loops with deterministic detection, guardrails, and reviewable outputs.
+
+## Current focus
+
+I build around three practical problems:
+
+- **Evaluation and quality:** Make AI-assisted work testable with deterministic checks and fixtures.
+- **Human review:** Let AI draft, rank, and propose while people remain responsible for approval.
+- **Inspectable automation:** Prefer local-first systems that are portable, permission-aware, and readable end to end.
 
 ## Background
 
-I’m a Group Product Manager / Sr. Manager at Neon in São Paulo, with previous fintech product roles at Mercado Libre, Leve, and PagSeguro PagBank, and earlier PM work at ConectCar and PSafe. Before product I spent years in product intelligence and BI, which is why everything I build insists on evidence, metrics, and deterministic checks.
+I am a Group Product Manager / Sr. Manager at Neon in São Paulo, with previous fintech product roles at Mercado Libre, Leve, and PagSeguro PagBank, and earlier PM work at ConectCar and PSafe. Before product, I spent years in product intelligence and BI, which is why I build with evidence, metrics, and deterministic checks.
 
-I use GitHub as a public workshop for practical AI/product systems: small enough to inspect, real enough to validate, and opinionated enough to show how I think.
+GitHub is my public workshop for practical AI and product systems: small enough to inspect, real enough to validate, and opinionated enough to show how I think.
 
 ## Operating principles
 
 - Start with the user workflow, not the model.
 - Keep evidence attached to generated claims.
 - Prefer reversible, inspectable systems over opaque automation.
-- Use deterministic checks and fixtures where possible.
-- Treat agents as collaborators that need context, constraints, and review.
+- Give agents context, constraints, and review.
 
----
+<details>
+<summary>Earlier and exploratory systems</summary>
 
-If you’re building at the intersection of product leadership, fintech, and practical AI systems, I’m happy to compare notes.
+These projects remain useful context, but they are not the center of my current portfolio:
 
-[LinkedIn](https://www.linkedin.com/in/daniel-c-campagnoni-andrade-1004b13b)
+- [`firehose`](https://github.com/DCCA/firehose) - an earlier spec-driven workflow method for aligning AI coding agents with product intent.
+- [`hermes-product-teams`](https://github.com/DCCA/hermes-product-teams) - a product-memory prototype exploring discovery notes, decision logs, PRD proposals, and weekly product briefs.
+- [`sandy`](https://github.com/DCCA/sandy) - a schema-first mobile UI prototyping sandbox for design-system and server-driven UI experiments.
+
+</details>
+
+If you lead Product or AI teams and are working on practical systems, [connect with Daniel Andrade on LinkedIn](https://www.linkedin.com/in/daniel-c-campagnoni-andrade-1004b13b).
