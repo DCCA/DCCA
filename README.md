@@ -4,15 +4,13 @@
 
 I build for people shipping AI products. AI Signal Desk is live, and the projects below cover evaluation, human review, and automation teams can inspect and control.
 
-## Featured product
+## AI Signal Desk
 
-### AI Signal Desk
-
-![AI Signal Desk homepage showing curated AI stories, source-checked selection, and editorial notes](assets/ai-signal-desk.png)
+AI Signal Desk selects AI news, tools, repositories, and concepts. Each item includes sources, an editorial note, and a recommendation: learn, try, watch, or ignore.
 
 [Visit AI Signal Desk](https://aisignaldesk.ai/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 
-AI Signal Desk curates AI news, tools, repos, and concepts into one of four calls: learn, try, watch, or ignore. Each selection includes source support and a written read.
+<img src="assets/ai-signal-desk.png" alt="AI Signal Desk homepage showing curated AI stories, source-checked selection, and editorial notes" width="1200" height="700">
 
 ## Selected systems
 
