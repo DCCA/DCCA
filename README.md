@@ -12,23 +12,23 @@ I built AI Signal Desk and use it regularly to follow AI news, tools, repositori
 
 <img src="assets/ai-signal-desk.png" alt="AI Signal Desk homepage showing curated AI stories, source-checked selection, and editorial notes" width="1200" height="700">
 
-## Selected systems
+## Projects
 
-### [`skval`](https://github.com/DCCA/skval)
+### [skval](https://github.com/DCCA/skval) - Claude Code skill evaluation
 
-A CLI for evaluating Claude Code skills with deterministic checks and LLM-assisted review. Safety gates and scorecards help decide whether to ship, revise, or reject a skill.
+Evaluates Claude Code skills (reusable instructions for an AI coding agent), using automated checks and model-assisted tests. Returns a scorecard and a ship, revise, or reject verdict.
 
-### [`vyno`](https://github.com/DCCA/vyno)
+### [shotback](https://github.com/DCCA/shotback) - Visual feedback for coding agents
 
-A local-first AI digest pipeline with an operator console. It curates and scores sources, delivers digests to Telegram, and archives them in Obsidian.
+A Chrome extension that pairs screenshot annotations with the page elements they refer to, giving coding agents the context to locate an issue.
 
-### [`shotback`](https://github.com/DCCA/shotback)
+### [loopy](https://github.com/DCCA/loopy) - Repository maintenance
 
-A Chrome workflow for visual QA: capture screenshots, annotate them, and prepare product feedback for an AI assistant.
+Runs recurring repository upkeep, such as documentation and dependency updates. Produces pull requests or comments for review, with limits on what each job may change.
 
-### [`loopy`](https://github.com/DCCA/loopy)
+### [vyno](https://github.com/DCCA/vyno) - AI digests in Telegram
 
-Reusable maintenance loops for agents, with deterministic detection, guardrails, and reviewable outputs.
+A local-first Python app that collects and ranks AI sources, sends a daily digest to Telegram, and saves notes in Obsidian.
 
 ## What I am exploring
 
